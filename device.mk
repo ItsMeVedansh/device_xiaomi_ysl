@@ -482,3 +482,8 @@ PRODUCT_BOOT_JARS += \
 # GCam Go
 PRODUCT_PACKAGES += \
     GCam
+
+# Youtube by Vanced Team
+PRODUCT_PACKAGES += \
+    Youtube
+
