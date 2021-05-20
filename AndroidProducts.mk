@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_ysl.mk
+    $(LOCAL_DIR)/evolution_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_ysl-user \
-    cherish_ysl-userdebug \
-    cherish_ysl-eng
+    evolution_ysl-user \
+    evolution_ysl-userdebug \
+    evolution_ysl-eng
