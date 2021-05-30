@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_ysl.mk
+    $(LOCAL_DIR)/superior_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_ysl-user \
-    evolution_ysl-userdebug \
-    evolution_ysl-eng
+    superior_ysl-user \
+    superior_ysl-userdebug \
+    superior_ysl-eng
