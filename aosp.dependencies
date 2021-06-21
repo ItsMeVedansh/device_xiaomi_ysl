@@ -7,8 +7,8 @@
     },
     {
         "remote":       "github",
-        "repository":   "sushmit1/kernel_xiaomi_ysl",
+        "repository":   "ItsMeVedansh/kernel_xiaomi_ysl",
         "target_path":  "kernel/xiaomi/ysl",
-        "revision":     "perf-eleven"
+        "revision":     "eleven"
     }
 ]
