@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_ysl.mk
+    $(LOCAL_DIR)/aosp_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_ysl-user \
-    superior_ysl-userdebug \
-    superior_ysl-eng
+    aosp_ysl-user \
+    aosp_ysl-userdebug \
+    aosp_ysl-eng

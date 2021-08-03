@@ -27,15 +27,16 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/telephony_system_ext.mk)
 # Inherit from mido device
 $(call inherit-product, device/xiaomi/ysl/device.mk)
 
-# Inherit some common SuperiorOS stuff.
-$(call inherit-product, vendor/superior/config/common_full_phone.mk)
+# Inherit some common PixelBlaster stuff.
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
-# Inherit some common SuperiorOS flags
+# Inherit some common PixelBlaster flags
 TARGET_BOOT_ANIMATION_RES := 720
+BLASTER_BUILD_TYPE := OFFICIAL
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := ysl
-PRODUCT_NAME := superior_ysl
+PRODUCT_NAME := aosp_ysl
 BOARD_VENDOR := Xiaomi
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi S2
