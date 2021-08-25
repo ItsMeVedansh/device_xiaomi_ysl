@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_ysl.mk
+    $(LOCAL_DIR)/wave_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_ysl-user \
-    superior_ysl-userdebug \
-    superior_ysl-eng
+    wave_ysl-user \
+    wave_ysl-userdebug \
+    wave_ysl-eng

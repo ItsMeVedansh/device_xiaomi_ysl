@@ -7,8 +7,8 @@
     },
     {
         "remote":       "github",
-        "repository":   "ItsMeVedansh/kernel_xiaomi_ysl",
+        "repository":   "ItsMeVedansh/logan_ysl",
         "target_path":  "kernel/xiaomi/ysl",
-        "revision":     "eleven"
+        "revision":     "xr"
     }
 ]
